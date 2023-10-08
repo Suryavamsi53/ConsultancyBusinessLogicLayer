@@ -6,7 +6,7 @@ namespace ConsultancyBusinessLogicLayer
 {
     public class JobSeekerOperation
     {
-
+//JobSeekerOperation.cs
 
         public class Jobs
         {
